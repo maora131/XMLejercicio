@@ -1,6 +1,7 @@
 # XMLejercicio
 Ejercicio sobre corregir datos XML
-Descargamos el XML Copy Editor. Se selecciona la primera opción y copiamos la práctica 1.
+Descargamos el XML Copy Editor. Se selecciona la primera opción y copiamos la práctica 1.<br>
+Ejercicios: https://www.mclibre.org/consultar/xml/ejercicios/documentos-bien-formados.html
 
 Práctica 1 <br>
 
